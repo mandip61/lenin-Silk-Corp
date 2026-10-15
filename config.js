@@ -2,6 +2,6 @@
    Example: email: 'studio@yourdomain.com', whatsapp: '491234567890'.
    These prepare customer-sent drafts; automatic delivery to both channels needs a backend. */
 window.BRAND_CONFIG = {
-  email: '',
-  whatsapp: '',
+    email: 'leninsilk.corp@gmail.com',
+    whatsapp: '+91 70447 67878',
 };
